@@ -1,7 +1,5 @@
 # VOICE CLONING PROJECT
 
-### The VOICE folder contains the audio input of 5 different speakers.
-
 ### However our bench mark dataset is LibriTTS: https://www.openslr.org/60/
 
 # First Install AI Voice Cloning
